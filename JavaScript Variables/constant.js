@@ -2,7 +2,7 @@
 // The const keyword is for values that can not be changed.
 
 const christmas_2024 = '12.25.2024';
-console.log(christmas_2024);
+console.log(Easter_2024);
 
 // If you tried to reassign the constant, then when you run it, 
 // JavaScript would throw an error saying 'TypeError: Assignment to constant variable.'
