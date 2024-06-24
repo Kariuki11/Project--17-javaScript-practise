@@ -22,3 +22,6 @@ let usersChosenColor = 'blue';
 let defaultColor = 'green';
 
 const currentWebsiteColor = usersChosenColor || defaultColor;
+
+
+1 hour 35 minutes
